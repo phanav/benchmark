@@ -9,7 +9,7 @@ https://github.com/phanav/benchmark/tree/main/src/finetune
 https://github.com/ihsanullah2131/metadl_contrib
 
 
-## Related links:
+## Related links
 Reptile and other meta learning algorithms are here:
 
 https://github.com/phanav/metalearn
