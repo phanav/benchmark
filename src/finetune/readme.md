@@ -28,6 +28,7 @@ https://github.com/ihsanullah2131/metadl_contrib/tree/master/DataFormat/mini_ins
 ### Output
 
 Output is saved in `resultdir/dataname/resultprefix`
+
 `model` contains the saved model and checkpoint
 
 `metric` contains loss and score for training and validation of all epochs
