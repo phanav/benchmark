@@ -1,5 +1,4 @@
-Add catchy image
-
+<img src="fig/abstract_sample.png">
 
 ## Fine-tune many classes
 https://github.com/phanav/benchmark/tree/main/src/finetune
